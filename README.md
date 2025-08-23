@@ -1,21 +1,21 @@
-# RightNow Arabic LLM Corpus 🇸🇦
+# RightNow Arabic LLM Corpus
 
 **One of the largest high-quality Arabic text datasets for Large Language Model training and fine-tuning**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arabic](https://img.shields.io/badge/Language-Arabic-green.svg)](https://en.wikipedia.org/wiki/Arabic_language)
-[![Size](https://img.shields.io/badge/Size-2.8GB-blue.svg)](#dataset-statistics)
+[![Size](https://img.shields.io/badge/Size-8.7GB-blue.svg)](#dataset-statistics)
 [![Articles](https://img.shields.io/badge/Articles-743K-red.svg)](#dataset-statistics)
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This repository contains a comprehensive Arabic text dataset specifically curated for training and fine-tuning Large Language Models (LLMs). The dataset represents one of the largest collections of high-quality Arabic text available for machine learning research and commercial applications.
 
-**Collected by [RightNow AI](https://www.rightnowai.co/) team and [Al Hussein Technical University](https://www.htu.edu.jo/)** - Advancing Arabic AI capabilities through quality datasets.
+**Collected by [RightNow AI](https://www.rightnowai.co/) team and [Al Hussein Technical University](https://www.htu.edu.jo/)** - RightNow AI is the first GPU-powered AI code editor, advancing Arabic AI capabilities through quality datasets and innovative development tools.
 
-## 📊 Dataset Statistics
+## Dataset Statistics
 
 | Metric | Value |
 |--------|--------|
@@ -28,24 +28,24 @@ This repository contains a comprehensive Arabic text dataset specifically curate
 | **Average Sentences/Article** | 16.7 |
 | **Average Words/Sentence** | 19.7 |
 | **High Quality Articles** | 185,351 (≥70% quality score) |
-| **Dataset Size** | 2.8GB (JSONL) |
+| **Dataset Size** | 8.7GB (JSONL) |
 
-## 🎯 Key Features
+## Key Features
 
-- ✅ **Massive Scale**: 744K articles, 244M words
-- ✅ **High Quality**: Professional cleaning and filtering
-- ✅ **LLM Ready**: Optimized JSONL format for training
-- ✅ **Diverse Content**: Multiple topics and domains
-- ✅ **Clean Text**: Removed artifacts, references, templates
-- ✅ **UTF-8 Encoded**: Proper Arabic text encoding
-- ✅ **Metadata Rich**: Comprehensive article information
+- **Massive Scale**: 744K articles, 244M words
+- **High Quality**: Professional cleaning and filtering
+- **LLM Ready**: Optimized JSONL format for training
+- **Diverse Content**: Multiple topics and domains
+- **Clean Text**: Removed artifacts, references, templates
+- **UTF-8 Encoded**: Proper Arabic text encoding
+- **Metadata Rich**: Comprehensive article information
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── README.md                           # This file
-├── arabic_wikipedia_cleaned.jsonl      # Main dataset (2.8GB)
-├── arabic_wikipedia_cleaned.txt        # Human-readable format (2.6GB)
+├── arabic_wikipedia_cleaned.jsonl      # Main dataset (8.7GB)
+├── arabic_wikipedia_cleaned.txt        # Human-readable format (8.5GB)
 ├── dataset_metadata.json               # Dataset metadata
 ├── dataset/                            # Individual cleaned files
 │   ├── arabic_text_*.jsonl              # 11,880 individual files
@@ -57,7 +57,7 @@ This repository contains a comprehensive Arabic text dataset specifically curate
     └── dataset_documentation_*.md      # Markdown documentation
 ```
 
-## 🏷️ Content Distribution
+## Content Distribution
 
 | Topic | Articles | Percentage |
 |-------|----------|------------|
@@ -71,7 +71,7 @@ This repository contains a comprehensive Arabic text dataset specifically curate
 | Literature | 76,566 | 10.3% |
 | Sports | 71,171 | 9.6% |
 
-## ⭐ Quality Assessment
+## Quality Assessment
 
 | Quality Level | Articles | Percentage |
 |---------------|----------|------------|
@@ -82,19 +82,7 @@ This repository contains a comprehensive Arabic text dataset specifically curate
 
 **Average Quality Score: 58.3%**
 
-## 🔤 Most Common Words
-
-| Rank | Word | Frequency | Percentage |
-|------|------|-----------|------------|
-| 1 | في | 9,778,012 | 4.005% |
-| 2 | من | 7,346,952 | 3.009% |
-| 3 | على | 3,324,220 | 1.362% |
-| 4 | إلى | 2,453,720 | 1.005% |
-| 5 | أن | 1,595,356 | 0.653% |
-
-*See full analysis in `/analysis_reports/` for complete statistics*
-
-## 💻 Usage
+## Usage
 
 ### Loading the Dataset
 
@@ -139,30 +127,30 @@ Each line in the JSONL file contains:
 }
 ```
 
-## 🚀 Use Cases
+## Use Cases
 
 This dataset is perfect for:
 
-- **🤖 Arabic LLM Training**: GPT, BERT, T5, LLaMA models
-- **🔧 Fine-tuning**: Domain-specific Arabic models  
-- **📝 Text Generation**: Content generation systems
-- **🔍 NLP Research**: Arabic language processing research
-- **📊 Language Modeling**: Statistical language models
-- **🎯 Transfer Learning**: Pre-trained model adaptation
+- **Arabic LLM Training**: GPT, BERT, T5, LLaMA models
+- **Fine-tuning**: Domain-specific Arabic models  
+- **Text Generation**: Content generation systems
+- **NLP Research**: Arabic language processing research
+- **Language Modeling**: Statistical language models
+- **Transfer Learning**: Pre-trained model adaptation
 
-## 🏗️ Data Processing Pipeline
+## Data Processing Pipeline
 
 Our comprehensive processing pipeline ensures high-quality data:
 
-1. **🗂️ Source Collection**: Aggregated from multiple high-quality Arabic sources
-2. **🧹 Content Cleaning**: Removed artifacts, references, templates
-3. **🔍 Quality Filtering**: Applied strict quality criteria (≥70% Arabic content)
-4. **📏 Length Filtering**: Removed very short or overly long content
-5. **🎯 Deduplication**: Eliminated duplicate and near-duplicate content
-6. **✅ Validation**: Comprehensive format and encoding validation
-7. **📊 Analysis**: Detailed statistical analysis and quality assessment
+1. **Source Collection**: Aggregated from multiple high-quality Arabic sources
+2. **Content Cleaning**: Removed artifacts, references, templates
+3. **Quality Filtering**: Applied strict quality criteria (≥70% Arabic content)
+4. **Length Filtering**: Removed very short or overly long content
+5. **Deduplication**: Eliminated duplicate and near-duplicate content
+6. **Validation**: Comprehensive format and encoding validation
+7. **Analysis**: Detailed statistical analysis and quality assessment
 
-## 📈 Dataset Metrics
+## Dataset Metrics
 
 ### Length Distribution
 - **Article Length**: 7 - 20,757 words (median: 106)
@@ -174,17 +162,17 @@ Our comprehensive processing pipeline ensures high-quality data:
 - **Encoding**: UTF-8 with proper Arabic support
 - **Text Quality**: Professional cleaning and normalization
 
-## 🛠️ Technical Specifications
+## Technical Specifications
 
 - **Format**: JSONL (JSON Lines)
 - **Encoding**: UTF-8
 - **Language**: Arabic (ar)
-- **Size**: 2.8GB compressed
+- **Size**: 8.7GB compressed
 - **Articles**: 743,288 unique articles
 - **Vocabulary**: 1.5M unique words
 - **Processing Date**: January 2025
 
-## 📄 License
+## License
 
 This dataset is released under the **MIT License**.
 
@@ -202,7 +190,7 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Dataset.
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to improve the dataset quality and coverage:
 
@@ -211,19 +199,19 @@ We welcome contributions to improve the dataset quality and coverage:
 3. **Additional Sources**: Suggest new high-quality Arabic sources
 4. **Processing Improvements**: Contribute to cleaning algorithms
 
-## 📞 Contact
+## Contact
 
-**RightNowAI** - Advancing Arabic AI capabilities
+**RightNow AI** - The first GPU-powered AI code editor, advancing Arabic AI capabilities
 
-- 🌐 Website: [https://www.rightnowai.co/](https://www.rightnowai.co/)
-- 📧 Email: [Contact through website](https://www.rightnowai.co/)
-- 🐛 Issues: [GitHub Issues](https://github.com/RightNow-AI/rightnow-arabic-llm-corpus/issues)
+- Website: [https://www.rightnowai.co/](https://www.rightnowai.co/)
+- Email: [Contact through website](https://www.rightnowai.co/)
+- Issues: [GitHub Issues](https://github.com/RightNow-AI/rightnow-arabic-llm-corpus/issues)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This corpus was collected through the collaborative efforts of:
 
-- **[RightNow AI](https://www.rightnowai.co/)** - AI research and development company
+- **[RightNow AI](https://www.rightnowai.co/)** - The first GPU-powered AI code editor and AI research company
 - **[Al Hussein Technical University](https://www.htu.edu.jo/)** - Leading technical university in Jordan
 
 Special thanks to:
@@ -232,7 +220,7 @@ Special thanks to:
 - The machine learning community for feedback and validation
 - Both organizations for their dedication to advancing Arabic NLP research
 
-## 📊 Citation
+## Citation
 
 If you use this dataset in your research, please cite:
 
@@ -249,6 +237,6 @@ If you use this dataset in your research, please cite:
 
 ---
 
-**🌟 If this dataset helps your research or project, please star ⭐ this repository!**
+**If this dataset helps your research or project, please star this repository!**
 
-*Built with ❤️ for the Arabic AI community by [RightNow AI](https://www.rightnowai.co/) and [Al Hussein Technical University](https://www.htu.edu.jo/)*
+*Built for the Arabic AI community by [RightNow AI](https://www.rightnowai.co/) and [Al Hussein Technical University](https://www.htu.edu.jo/)*
