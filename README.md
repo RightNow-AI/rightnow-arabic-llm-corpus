@@ -34,13 +34,12 @@ This repository contains a comprehensive Arabic text dataset specifically curate
 
 ## Key Features
 
-- **Massive Scale**: 744K articles, 244M words
-- **High Quality**: Professional cleaning and filtering
-- **LLM Ready**: Optimized JSONL format for training
-- **Diverse Content**: Multiple topics and domains
-- **Clean Text**: Removed artifacts, references, templates
-- **UTF-8 Encoded**: Proper Arabic text encoding
-- **Metadata Rich**: Comprehensive article information
+- **Unprecedented Scale**: 744K articles with 244M words - one of the largest Arabic datasets available
+- **Production-Ready Quality**: Advanced cleaning pipeline removes artifacts, references, and templates
+- **LLM-Optimized Format**: JSONL structure designed specifically for modern language model training
+- **Comprehensive Coverage**: Diverse content spanning history, science, literature, politics, and more
+- **Linguistic Excellence**: UTF-8 encoded with proper Arabic text normalization and validation
+- **Rich Metadata**: Complete article information including titles, URLs, and processing timestamps
 
 ## Repository Structure
 
