@@ -13,7 +13,7 @@
 
 This repository contains a comprehensive Arabic text dataset specifically curated for training and fine-tuning Large Language Models (LLMs). The dataset represents one of the largest collections of high-quality Arabic text available for machine learning research and commercial applications.
 
-**Collected by [RightNow AI](https://www.rightnowai.co/) team and [Al Hussein Technical University](https://www.htu.edu.jo/)** - RightNow AI is the first GPU-powered AI code editor, advancing Arabic AI capabilities through quality datasets and innovative development tools.
+**Collected by [RightNow AI](https://rightnowai.co/) team and [Al Hussein Technical University](https://www.htu.edu.jo/)** - RightNow AI is the first GPU-powered AI code editor, providing 180x more powerful AI assistance for your entire codebase.
 
 ## Dataset Statistics
 
@@ -201,17 +201,19 @@ We welcome contributions to improve the dataset quality and coverage:
 
 ## Contact
 
-**RightNow AI** - The first GPU-powered AI code editor, advancing Arabic AI capabilities
+**RightNow AI** - The first GPU-powered AI code editor, providing 180x more powerful AI assistance
 
-- Website: [https://www.rightnowai.co/](https://www.rightnowai.co/)
-- Email: [Contact through website](https://www.rightnowai.co/)
+- Website: [https://rightnowai.co/](https://rightnowai.co/)
+- Documentation: [https://docs.rightnowai.co/](https://docs.rightnowai.co/)
+- Discord: [Join our community](https://discord.com/invite/sSJqgNnq6X)
+- Twitter/X: [@rightnowai_co](https://twitter.com/rightnowai_co)
 - Issues: [GitHub Issues](https://github.com/RightNow-AI/rightnow-arabic-llm-corpus/issues)
 
 ## Acknowledgments
 
 This corpus was collected through the collaborative efforts of:
 
-- **[RightNow AI](https://www.rightnowai.co/)** - The first GPU-powered AI code editor and AI research company
+- **[RightNow AI](https://rightnowai.co/)** - The first GPU-powered AI code editor, providing 180x more powerful AI assistance for your entire codebase
 - **[Al Hussein Technical University](https://www.htu.edu.jo/)** - Leading technical university in Jordan
 
 Special thanks to:
@@ -239,4 +241,4 @@ If you use this dataset in your research, please cite:
 
 **If this dataset helps your research or project, please star this repository!**
 
-*Built for the Arabic AI community by [RightNow AI](https://www.rightnowai.co/) and [Al Hussein Technical University](https://www.htu.edu.jo/)*
+*Built for the Arabic AI community by [RightNow AI](https://rightnowai.co/) and [Al Hussein Technical University](https://www.htu.edu.jo/)*
