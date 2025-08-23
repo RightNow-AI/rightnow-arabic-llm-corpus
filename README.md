@@ -15,7 +15,7 @@
 
 This repository contains a comprehensive Arabic text dataset specifically curated for training and fine-tuning Large Language Models (LLMs). The dataset represents one of the largest collections of high-quality Arabic text available for machine learning research and commercial applications.
 
-**Collected by [RightNow AI](https://rightnowai.co/) team and [Al Hussein Technical University](https://www.htu.edu.jo/)** - RightNow AI is the first GPU-powered AI code editor, providing 180x more powerful AI assistance for your entire codebase.
+**Collected by [RightNow AI](https://rightnowai.co/) team** - RightNow AI is the first GPU-powered AI code editor, providing 180x more powerful AI assistance for your entire codebase.
 
 ## Dataset Statistics
 
@@ -216,13 +216,12 @@ We welcome contributions to improve the dataset quality and coverage:
 This corpus was collected through the collaborative efforts of:
 
 - **[RightNow AI](https://rightnowai.co/)** - The first GPU-powered AI code editor, providing 180x more powerful AI assistance for your entire codebase
-- **[Al Hussein Technical University](https://www.htu.edu.jo/)** - Leading technical university in Jordan
 
 Special thanks to:
 - The Arabic language community for content creation
 - Open source contributors for processing tools
 - The machine learning community for feedback and validation
-- Both organizations for their dedication to advancing Arabic NLP research
+- RightNow AI for their dedication to advancing Arabic NLP research
 
 ## Citation
 
@@ -231,7 +230,7 @@ If you use this dataset in your research, please cite:
 ```bibtex
 @dataset{rightnow_arabic_llm_corpus_2025,
   title={RightNow Arabic LLM Corpus},
-  author={RightNow AI team and Al Hussein Technical University},
+  author={RightNow AI team},
   year={2025},
   publisher={GitHub},
   url={https://github.com/RightNow-AI/rightnow-arabic-llm-corpus},
@@ -243,4 +242,4 @@ If you use this dataset in your research, please cite:
 
 **If this dataset helps your research or project, please star this repository!**
 
-*Built for the Arabic AI community by [RightNow AI](https://rightnowai.co/) and [Al Hussein Technical University](https://www.htu.edu.jo/)*
+*Built for the Arabic AI community by [RightNow AI](https://rightnowai.co/)*
