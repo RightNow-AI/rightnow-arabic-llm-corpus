@@ -1,0 +1,11 @@
+Metric,Value,Unit
+Total Articles,743288,count
+Total Words,244153780,count
+Total Sentences,12392064,count
+Unique Words,1529064,count
+Vocabulary Richness,0.0063,ratio
+Avg Words per Article,328.5,words
+Avg Sentences per Article,16.7,sentences
+Avg Words per Sentence,19.7,words
+Avg Quality Score,58.3,percentage
+High Quality Articles,185351,count
