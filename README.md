@@ -1,3 +1,5 @@
+![RightNow Arabic LLM Corpus](arabic.png)
+
 # RightNow Arabic LLM Corpus
 
 **One of the largest high-quality Arabic text datasets for Large Language Model training and fine-tuning**
