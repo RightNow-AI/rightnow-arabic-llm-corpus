@@ -1,4 +1,4 @@
-![RightNow Arabic LLM Corpus](arabic.png)
+![RightNow Arabic LLM Corpus](image.png)
 
 # RightNow Arabic LLM Corpus
 
