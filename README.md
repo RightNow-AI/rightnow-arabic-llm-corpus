@@ -4,7 +4,7 @@
 
 **One of the largest high-quality Arabic text datasets for Large Language Model training and fine-tuning**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Arabic](https://img.shields.io/badge/Language-Arabic-green.svg)](https://en.wikipedia.org/wiki/Arabic_language)
 [![Size](https://img.shields.io/badge/Size-8.7GB-blue.svg)](#dataset-statistics)
 [![Articles](https://img.shields.io/badge/Articles-743K-red.svg)](#dataset-statistics)
@@ -175,21 +175,7 @@ Our comprehensive processing pipeline ensures high-quality data:
 
 ## License
 
-This dataset is released under the **MIT License**.
-
-```
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Dataset"), to deal
-in the Dataset without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Dataset, and to permit persons to whom the Dataset is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Dataset.
-```
+This dataset is released under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for the full license text.
 
 ## Contributing
 
